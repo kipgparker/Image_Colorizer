@@ -1,6 +1,6 @@
 # Fully convolutional network for colorizing images
 
-This is the code for that is used to create and train keras model
+This is the code for that is used to create and train keras model using gan, peceptual loss combination
 
 ##  Dependiencies
 
