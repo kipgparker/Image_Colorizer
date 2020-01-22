@@ -8,6 +8,7 @@ This is the code for that is used to create and train keras model to color image
 * Keras
 * Numpy
 * Matplotlib
+* OpenCV
 
 Install missing ependencies with [pip](https://pip.pypa.io/en/stable/). 
 
